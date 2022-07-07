@@ -1,0 +1,26 @@
+{
+	"name": "Newline",
+	"description": "Prints characters on a newline",
+	"version": "1.0.0",
+	"tags": [
+		"newline",
+		"space",
+		"characters"
+	],
+	"homepage": "https://polypad.io",
+	"license": "GPL",
+    "type": "script",
+	"authors": [
+		{
+			"name": "Marcell Purham",
+			"email": "m@marcell.me",
+			"homepage": "marcell.me"
+		}
+	],
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/mpurham/newline"
+		}
+	]
+}
